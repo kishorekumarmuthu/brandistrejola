@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #feb900;
+  --color-primary: #ed5823;
   --color-secondary: #52565e;
 }
 
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #ffc732;
+  color: #ee6838;
   text-decoration: none;
 }
 
@@ -189,7 +189,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #ffc732;
+  background: #ee6838;
   color: #fff;
 }
 
@@ -657,7 +657,8 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  /* background: rgba(254, 185, 0, 0.8); */
+  background: #ee6838;
 }
 
 @keyframes animate-loading {
