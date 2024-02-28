@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>UpConstruction Bootstrap Template - Index</title>
+    <title>Shan Associates</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -25,6 +25,7 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
 
     <!-- =======================================================
   * Template Name: UpConstruction
@@ -43,7 +44,7 @@
 
             <a href="index.php" class="logo d-flex align-items-center">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/logo.png" width="" height="700" alt="">
+                <img src="assets/img/logo2.jpeg" width="" height="" alt="">
                 <!-- <h1>UpConstruction<span>.</span></h1> -->
             </a>
 

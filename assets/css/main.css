@@ -606,6 +606,16 @@ section {
   font-weight: 600;
 }
 
+.get-started .php-email-form .sent-notification{
+  display: none;
+  color: #fff;
+  background: #059652;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 24px;
+  font-weight: 600;
+}
+
 .get-started .php-email-form .loading {
   display: none;
   background: #fff;
