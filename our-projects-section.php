@@ -35,7 +35,7 @@
                     </div>
                 </div><!-- End Projects Item -->
 
-                <?php include('./projects-section-construction.php') ?>
+                <?php include('./projects-section-construction.php'); ?>
 
                 <!-- End Projects Item -->
 
