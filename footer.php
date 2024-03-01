@@ -8,16 +8,15 @@
                     <div class="footer-info">
                         <h3>Shan Associates</h3>
                         <p>
-                            Address 1 <br>
-                            Address 2<br><br>
-                            <strong>Phone:</strong> +91 9999999999<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            No.18 B, Natarajar Street, Villupuram - 605602<br>
+                            <strong>Phone:</strong> +91 9940720740 / +91 9677717140<br>
+                            <strong>Email:</strong> shanassociates.partner@gmail.com<br>
                         </p>
                         <div class="social-links d-flex mt-3">
                             <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
                             <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
                             <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
-                            <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a>
+                            <!-- <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a> -->
                         </div>
                     </div>
                 </div><!-- End footer info column-->
