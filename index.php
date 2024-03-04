@@ -16,6 +16,7 @@ include('./header.php');
           <h2 data-aos="fade-down">Welcome to <span>Shan Associates</span></h2>
           <p data-aos="fade-up">Building Dreams, Crafting Futures</p>
           <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
+          <p style="margin-top: 15px;" data-aos="fade-up"><span>Plan | Preview | Execute</span></p>
         </div>
       </div>
     </div>
@@ -424,17 +425,16 @@ include('./header.php');
 
   <!-- ======= Our Projects Section ======= -->
 
-  <?php include('./our-projects-section.php'); ?>
-
   <!-- ======= End Our Projects Section ======= -->
 
   <!-- ======= Testimonials Section ======= -->
+  <!-- <section id="testimonials" class="testimonials section-bg"> -->
   <section id="testimonials" class="testimonials section-bg">
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
         <h2>Testimonials</h2>
-        <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia reprehenderit sunt deleniti</p>
+        <p>Every project tells a Story: Hear from our satisfied clients. Testimonials that speak louder than words.</p>
       </div>
 
       <div class="slides-2 swiper">
@@ -444,8 +444,8 @@ include('./header.php');
             <div class="testimonial-wrap">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Client Name</h3>
-                <h4>Client Designation</h4>
+                <h3>B.Gnana Prakash</h3>
+                <h4>Sarvesh groups of company</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
@@ -461,8 +461,8 @@ include('./header.php');
             <div class="testimonial-wrap">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Client Name</h3>
-                <h4>Client Designation</h4>
+                <h3>M.Sabhaapathy</h3>
+                <h4>E.P.M agencies-Kamarajar street</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
@@ -478,8 +478,8 @@ include('./header.php');
             <div class="testimonial-wrap">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Client Name</h3>
-                <h4>Client Designation</h4>
+                <h3>Natarajan</h3>
+                <h4>LMC Radio House agencies</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
@@ -495,8 +495,8 @@ include('./header.php');
             <div class="testimonial-wrap">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Client Name</h3>
-                <h4>Client Designation</h4>
+                <h3>Sridhara</h3>
+                <h4>SPRINGS FOOD & BEVERAGES PRIVATE LIMITED</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>

@@ -44,7 +44,7 @@
 
             <a href="index.php" class="logo d-flex align-items-center">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/logo2.jpeg" width="" height="" alt="">
+                <img src="assets/img/logo3.png" width="" height="" alt="">
                 <!-- <h1>UpConstruction<span>.</span></h1> -->
             </a>
 

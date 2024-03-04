@@ -24,7 +24,7 @@
 
       <div class="row position-relative">
 
-        <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.jpg);"></div>
+        <div class="col-lg-7 about-img" style="background-image: url(assets/img/about2.jpg);"></div>
 
         <div class="col-lg-7">
           <h2>Our Story</h2>
@@ -111,43 +111,11 @@
     <div class="container" data-aos="fade-up">
 
       <div class="row justify-content-around gy-4">
-        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/Vision.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
         <div class="col-lg-5 d-flex flex-column justify-content-center">
           <h3>Our Vision</h3>
           <p>Our vision at Shan Associates is to be a symbol of excellence in construction, setting new standards for quality, innovation, and sustainability. We aim to create remarkable structures that inspire, enrich, and contribute to the betterment of communities.</p>
-
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-            <i class="bi bi-easel flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div><!-- End Icon Box -->
-
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-            <i class="bi bi-patch-check flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-          </div><!-- End Icon Box -->
-
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-            <i class="bi bi-brightness-high flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-              <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-            </div>
-          </div><!-- End Icon Box -->
-
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-            <i class="bi bi-brightness-high flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Tride clov</a></h4>
-              <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-            </div>
-          </div><!-- End Icon Box -->
 
         </div>
       </div>
@@ -164,162 +132,15 @@
           <h3>Our Mission</h3>
           <p>Our mission at Shan Associates is to deliver unparalleled quality in every project, embrace innovation for efficiency and sustainability, foster a culture of collaboration and growth, build lasting client relationships based on trust, and contribute to societal development through environmentally conscious construction practices.</p>
 
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-            <i class="bi bi-easel flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div><!-- End Icon Box -->
-
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-            <i class="bi bi-patch-check flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-          </div><!-- End Icon Box -->
-
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-            <i class="bi bi-brightness-high flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-              <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-            </div>
-          </div><!-- End Icon Box -->
-
-          <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-            <i class="bi bi-brightness-high flex-shrink-0"></i>
-            <div>
-              <h4><a href="" class="stretched-link">Tride clov</a></h4>
-              <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-            </div>
-          </div><!-- End Icon Box -->
         </div>
 
-        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services-2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/Mission.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
       </div>
 
     </div>
   </section><!-- End Alt Services Section 2 -->
 
   <!-- ======= Our Team Section ======= -->
-  <section id="team" class="team">
-    <div class="container" data-aos="fade-up">
-
-      <div class="section-header">
-        <h2>Our Team</h2>
-        <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
-      </div>
-
-      <div class="row gy-5">
-
-        <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
-          <div class="member-img">
-            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-            <div class="social">
-              <a href="#"><i class="bi bi-twitter"></i></a>
-              <a href="#"><i class="bi bi-facebook"></i></a>
-              <a href="#"><i class="bi bi-instagram"></i></a>
-              <a href="#"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info text-center">
-            <h4>Walter White</h4>
-            <span>Chief Executive Officer</span>
-            <p>Aliquam iure quaerat voluptatem praesentium possimus unde laudantium vel dolorum distinctio dire flow</p>
-          </div>
-        </div><!-- End Team Member -->
-
-        <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="200">
-          <div class="member-img">
-            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-            <div class="social">
-              <a href="#"><i class="bi bi-twitter"></i></a>
-              <a href="#"><i class="bi bi-facebook"></i></a>
-              <a href="#"><i class="bi bi-instagram"></i></a>
-              <a href="#"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info text-center">
-            <h4>Sarah Jhonson</h4>
-            <span>Product Manager</span>
-            <p>Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium aut quod dolores exercitationem ut</p>
-          </div>
-        </div><!-- End Team Member -->
-
-        <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
-          <div class="member-img">
-            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-            <div class="social">
-              <a href="#"><i class="bi bi-twitter"></i></a>
-              <a href="#"><i class="bi bi-facebook"></i></a>
-              <a href="#"><i class="bi bi-instagram"></i></a>
-              <a href="#"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info text-center">
-            <h4>William Anderson</h4>
-            <span>CTO</span>
-            <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque sed facilis at qui</p>
-          </div>
-        </div><!-- End Team Member -->
-
-        <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
-          <div class="member-img">
-            <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-            <div class="social">
-              <a href="#"><i class="bi bi-twitter"></i></a>
-              <a href="#"><i class="bi bi-facebook"></i></a>
-              <a href="#"><i class="bi bi-instagram"></i></a>
-              <a href="#"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info text-center">
-            <h4>Amanda Jepson</h4>
-            <span>Accountant</span>
-            <p>Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate sed et veniam quasi quam consectetur</p>
-          </div>
-        </div><!-- End Team Member -->
-
-        <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="500">
-          <div class="member-img">
-            <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="">
-            <div class="social">
-              <a href="#"><i class="bi bi-twitter"></i></a>
-              <a href="#"><i class="bi bi-facebook"></i></a>
-              <a href="#"><i class="bi bi-instagram"></i></a>
-              <a href="#"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info text-center">
-            <h4>Brian Doe</h4>
-            <span>Marketing</span>
-            <p>Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam sunt doloribus quia impedit laborum velit</p>
-          </div>
-        </div><!-- End Team Member -->
-
-        <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="600">
-          <div class="member-img">
-            <img src="assets/img/team/team-6.jpg" class="img-fluid" alt="">
-            <div class="social">
-              <a href="#"><i class="bi bi-twitter"></i></a>
-              <a href="#"><i class="bi bi-facebook"></i></a>
-              <a href="#"><i class="bi bi-instagram"></i></a>
-              <a href="#"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info text-center">
-            <h4>Josepha Palas</h4>
-            <span>Operation</span>
-            <p>Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum earum et omnis fugit eligendi cupiditate vel</p>
-          </div>
-        </div><!-- End Team Member -->
-
-      </div>
-
-    </div>
-  </section><!-- End Our Team Section -->
 
   <!-- ======= Testimonials Section ======= -->
   <!-- <section id="testimonials" class="testimonials section-bg">
