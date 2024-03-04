@@ -422,7 +422,12 @@ include('./header.php');
       </div>
     </section> -->
 
+  <!-- ======= Our Projects Section ======= -->
+
   <?php include('./our-projects-section.php'); ?>
+
+  <!-- ======= End Our Projects Section ======= -->
+
   <!-- ======= Testimonials Section ======= -->
   <section id="testimonials" class="testimonials section-bg">
     <div class="container" data-aos="fade-up">
