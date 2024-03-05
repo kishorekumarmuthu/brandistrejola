@@ -6,7 +6,7 @@
 <main id="main">
 
   <!-- ======= Breadcrumbs ======= -->
-  <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+  <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/All-Pages-Banner.jpg');">
     <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
       <h2>About</h2>
@@ -112,14 +112,11 @@
 
       <div class="row justify-content-around gy-4">
         <div class="col-lg-6 img-bg" style="background-image: url(assets/img/Vision.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
-
         <div class="col-lg-5 d-flex flex-column justify-content-center">
           <h3>Our Vision</h3>
           <p>Our vision at Shan Associates is to be a symbol of excellence in construction, setting new standards for quality, innovation, and sustainability. We aim to create remarkable structures that inspire, enrich, and contribute to the betterment of communities.</p>
-
         </div>
       </div>
-
     </div>
   </section><!-- End Alt Services Section -->
 
